@@ -21,3 +21,4 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
+          token: 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
